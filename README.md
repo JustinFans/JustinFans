@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustinFans
 - 👀 I’m interested in 3D-Printing
 - 🌱 I’m currently learning building a 3D-Printer
-- 📫 How to reach me e-mail: justin.jonathan.fanslau@gmail.com
+- 📫 How to reach me: here
 - ⚡ Fun fact: Minecraft is more than just a game
 
 <!---
